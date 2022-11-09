@@ -1,0 +1,2 @@
+ 1 lines (1 sloc) 167 Bytes
+{"event": {"tickets": {"amount": 88, "regular": {"cost": 100}, "advanced": {"cost": 60}, "late": {"cost": 110}, "student": {"cost": 50}}, "date": ["2022", "7", "15"]}}
